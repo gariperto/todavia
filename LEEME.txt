@@ -1,0 +1,29 @@
+TODAVÍA — Versión instalable sin conexión
+
+Publicación gratuita en GitHub Pages:
+1. Crear un repositorio público llamado todavia con una cuenta GitHub Free.
+2. Subir los archivos de esta carpeta a la raíz de la rama main.
+3. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+4. Abrir la dirección HTTPS que GitHub devuelva.
+
+Instalación:
+iPhone/iPad: Safari > Compartir > Añadir a pantalla de inicio.
+Android/Windows: usar Chrome o Edge y su opción Instalar aplicación.
+Mac: Safari > Archivo > Añadir al Dock (si está disponible), o Chrome.
+Abrir por primera vez con internet y esperar en Ajustes al mensaje
+“Lista para usar sin conexión”. Después se puede cerrar y abrir sin red.
+
+No requiere dominio propio, servicios de pago ni cuenta para quien la usa.
+La disponibilidad gratuita queda sujeta a las condiciones de GitHub Pages.
+Los datos son locales, no se sincronizan y pueden perderse si se borran
+los datos de la aplicación/navegador. Exportar para guardar una copia.
+Si cambias desde Sites, exporta allí tus datos e impórtalos en la nueva app:
+no se transfieren entre direcciones automáticamente.
+
+Para publicar actualizaciones, cambiar CACHE en sw.js y subir los archivos.
+Es necesaria conexión para recibir la actualización. No hace falta borrar
+los datos ni desinstalar. El dispositivo puede eliminar la caché por espacio:
+en ese caso será necesaria una conexión para descargar otra vez la app.
+
+Proyecto independiente inspirado en The Tail End de Tim Urban:
+https://waitbutwhy.com/2015/12/the-tail-end.html
